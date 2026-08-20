@@ -2,6 +2,7 @@
 
 Nombre: María Fantini  
 Sección: MLY1101_001V
+
 Pregunta u objetivo: Analizar qué información se encuentra disponible mediante distintas APIs sobre series y personajes de anime, películas de Studio Ghibli y poemas.
 
 API 1: AnimeChan 
