@@ -1,32 +1,13 @@
 # MLY1101 - Taller 1
 
-## Descripción
+Nombre: María Fantini  
+Sección: MLY1101_001V
+Pregunta u objetivo: Analizar qué información se encuentra disponible mediante distintas APIs sobre series y personajes de anime, películas de Studio Ghibli y poemas.
 
-Este repositorio contiene el desarrollo del Taller 1 del módulo MLY1101,
-en el cual se realiza la obtención y almacenamiento de datos provenientes
-de tres APIs.
+API 1: AnimeChan 
+API 2: PoetryDB  
+API 3: Studio Ghibli API
 
-## APIs utilizadas
-
-### API 1
-- Endpoint: https://api.animechan.io/v1/anime
-- Registros obtenidos: 200
-
-### API 2 - PoetryDB
-
-- Endpoint: https://poetrydb.org/random/200
-- Registros obtenidos: 200
-
-### API 3
-- Endpoint: https://ghibliapi.vercel.app/films
-- Registros obtenidos: 22
-- Observación: La API no permitió obtener 200 registros, por lo que se
-  documenta la excepción y se conservan los 22 registros disponibles.
-
-## Archivos
-
-- `MLY1101_001V_T01_ApellidoNombre.ipynb`: Notebook del desarrollo del taller.
-- `dataset_api_1.json`: Dataset obtenido desde la API 1.
-- `dataset_api_2.json`: Dataset obtenido desde PoetryDB.
-- `dataset_api_3.json`: Dataset obtenido desde la API 3.
-- `README.md`: Documentación del proyecto.
+Registros API 1: 200  
+Registros API 2: 200  
+Registros API 3: 22 (se realizó una excepción porque el dataset no posee 200 registros)
