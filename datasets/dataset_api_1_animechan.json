@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 599,
+    "name": ".hack//Gift",
+    "altName": ".hack//Gift",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 1
+  },
+  {
+    "id": 785,
+    "name": ".hack//Liminality",
+    "altName": ".hack//Liminality",
+    "malId": null,
+    "episodeCount": 4,
+    "quoteCount": 1
+  },
+  {
+    "id": 494,
+    "name": ".hack//Sign",
+    "altName": ".hack//Sign",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 2
+  },
+  {
+    "id": 490,
+    "name": "07-Ghost",
+    "altName": "07-Ghost",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 20
+  },
+  {
+    "id": 626,
+    "name": "5 Centimeters per Second",
+    "altName": "Byousoku 5 Centimeter",
+    "malId": null,
+    "episodeCount": 3,
+    "quoteCount": 7
+  },
+  {
+    "id": 408,
+    "name": "A Certain Magical Index",
+    "altName": "Toaru Majutsu no Index",
+    "malId": 4654,
+    "episodeCount": 24,
+    "quoteCount": 29
+  },
+  {
+    "id": 749,
+    "name": "A Certain Scientific Railgun",
+    "altName": "Toaru Kagaku no Railgun",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 1
+  },
+  {
+    "id": 497,
+    "name": "A Lull in the Sea",
+    "altName": "Nagi no Asukara",
+    "malId": 16067,
+    "episodeCount": 26,
+    "quoteCount": 8
+  },
+  {
+    "id": 969,
+    "name": "A-Channel",
+    "altName": "A-Channel",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 688,
+    "name": "Absolute Duo",
+    "altName": "Absolute Duo",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 498,
+    "name": "Accel World",
+    "altName": "Accel World",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 9
+  },
+  {
+    "id": 801,
+    "name": "Ah! My Goddess: The Movie",
+    "altName": "Aa! Megami-sama! Movie",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 1
+  },
+  {
+    "id": 898,
+    "name": "Ai no Kusabi",
+    "altName": "Ai no Kusabi",
+    "malId": null,
+    "episodeCount": 2,
+    "quoteCount": 1
+  },
+  {
+    "id": 561,
+    "name": "Air",
+    "altName": "Air",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 5
+  },
+  {
+    "id": 503,
+    "name": "Air Gear",
+    "altName": "Air Gear",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 20
+  },
+  {
+    "id": 311,
+    "name": "Akame ga Kill!",
+    "altName": "Akame ga Kill!",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 27
+  },
+  {
+    "id": 219,
+    "name": "Alderamin on the Sky",
+    "altName": "Nejimaki Seirei Senki: Tenkyou no Alderamin",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 5
+  },
+  {
+    "id": 448,
+    "name": "Aldnoah.Zero",
+    "altName": "Aldnoah.Zero Part 2",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 3
+  },
+  {
+    "id": 479,
+    "name": "Alice in Borderland",
+    "altName": "Imawa no Kuni no Alice",
+    "malId": 24781,
+    "episodeCount": 3,
+    "quoteCount": 8
+  },
+  {
+    "id": 323,
+    "name": "Amagi Brilliant Park",
+    "altName": "Amagi Brilliant Park",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 5
+  },
+  {
+    "id": 622,
+    "name": "Angel Beats!",
+    "altName": "Angel Beats!",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 50
+  },
+  {
+    "id": 548,
+    "name": "Another",
+    "altName": "Another",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 11
+  },
+  {
+    "id": 357,
+    "name": "Arakawa Under the Bridge",
+    "altName": "Arakawa Under the Bridge",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 2
+  },
+  {
+    "id": 686,
+    "name": "Aria the Animation",
+    "altName": "Aria the Animation",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 7
+  },
+  {
+    "id": 891,
+    "name": "Aria the Natural",
+    "altName": "Aria the Natural",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 1
+  },
+  {
+    "id": 847,
+    "name": "Aria the Origination",
+    "altName": "Aria the Origination",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 353,
+    "name": "Assassination Classroom",
+    "altName": "Ansatsu Kyoushitsu",
+    "malId": null,
+    "episodeCount": 22,
+    "quoteCount": 16
+  },
+  {
+    "id": 439,
+    "name": "Assassination Classroom 2nd Season",
+    "altName": "Ansatsu Kyoushitsu 2nd Season",
+    "malId": 30654,
+    "episodeCount": 25,
+    "quoteCount": 17
+  },
+  {
+    "id": 291,
+    "name": "Atelier Escha & Logy: Alchemists of the Dusk Sky",
+    "altName": "Escha & Logy no Atelier: Tasogare no Sora no Renkinjutsushi",
+    "malId": 21167,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 985,
+    "name": "Attack on Titan",
+    "altName": "Shingeki no Kyojin",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 17
+  },
+  {
+    "id": 515,
+    "name": "Baccano!",
+    "altName": "Baccano!",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 22
+  },
+  {
+    "id": 386,
+    "name": "Baka & Test - Summon the Beasts",
+    "altName": "Baka to Test to Shoukanjuu",
+    "malId": 6347,
+    "episodeCount": 13,
+    "quoteCount": 41
+  },
+  {
+    "id": 277,
+    "name": "Bakemonogatari",
+    "altName": "Bakemonogatari",
+    "malId": null,
+    "episodeCount": 15,
+    "quoteCount": 59
+  },
+  {
+    "id": 651,
+    "name": "Bakuman.",
+    "altName": "Bakuman.",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 9
+  },
+  {
+    "id": 262,
+    "name": "Barakamon",
+    "altName": "Barakamon",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 5
+  },
+  {
+    "id": 960,
+    "name": "Bastard!!",
+    "altName": "Bastard!! Ankoku no Hakaishin",
+    "malId": null,
+    "episodeCount": 6,
+    "quoteCount": 1
+  },
+  {
+    "id": 852,
+    "name": "Beelzebub",
+    "altName": "Beelzebub",
+    "malId": null,
+    "episodeCount": 60,
+    "quoteCount": 6
+  },
+  {
+    "id": 315,
+    "name": "Berserk",
+    "altName": "Kenpuu Denki Berserk",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 45
+  },
+  {
+    "id": 982,
+    "name": "Big Windup!",
+    "altName": "Ookiku Furikabutte: Natsu no Scorebook",
+    "malId": null,
+    "episodeCount": 2,
+    "quoteCount": 1
+  },
+  {
+    "id": 447,
+    "name": "Black Bullet",
+    "altName": "Black Bullet",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 7
+  },
+  {
+    "id": 425,
+    "name": "Black Butler",
+    "altName": "Kuroshitsuji",
+    "malId": 4898,
+    "episodeCount": 24,
+    "quoteCount": 48
+  },
+  {
+    "id": 420,
+    "name": "Black Butler II",
+    "altName": "Kuroshitsuji II",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 678,
+    "name": "Black Butler: Book of Circus",
+    "altName": "Kuroshitsuji: Book of Circus",
+    "malId": null,
+    "episodeCount": 10,
+    "quoteCount": 1
+  },
+  {
+    "id": 616,
+    "name": "Black Cat",
+    "altName": "Black Cat (TV)",
+    "malId": null,
+    "episodeCount": 23,
+    "quoteCount": 3
+  },
+  {
+    "id": 992,
+    "name": "Black Clover",
+    "altName": "Black Clover",
+    "malId": null,
+    "episodeCount": 170,
+    "quoteCount": 15
+  },
+  {
+    "id": 672,
+    "name": "Black Lagoon",
+    "altName": "Black Lagoon",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 13
+  },
+  {
+    "id": 579,
+    "name": "Black Rock Shooter",
+    "altName": "Black★Rock Shooter (TV)",
+    "malId": null,
+    "episodeCount": 8,
+    "quoteCount": 9
+  },
+  {
+    "id": 774,
+    "name": "BlazBlue: Alter Memory",
+    "altName": "BlazBlue: Alter Memory",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 222,
+    "name": "Bleach",
+    "altName": "Bleach",
+    "malId": null,
+    "episodeCount": 366,
+    "quoteCount": 349
+  },
+  {
+    "id": 484,
+    "name": "Bleach the Movie: Hell Verse",
+    "altName": "Bleach Movie 4: Jigoku-hen",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 1
+  },
+  {
+    "id": 827,
+    "name": "Blood Lad",
+    "altName": "Blood Lad",
+    "malId": null,
+    "episodeCount": 10,
+    "quoteCount": 2
+  },
+  {
+    "id": 601,
+    "name": "Blood-C",
+    "altName": "Blood-C",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 5
+  },
+  {
+    "id": 978,
+    "name": "Blood+",
+    "altName": "Blood+",
+    "malId": null,
+    "episodeCount": 50,
+    "quoteCount": 8
+  },
+  {
+    "id": 1028,
+    "name": "Blue Lock",
+    "altName": "Blue Lock",
+    "malId": 49596,
+    "episodeCount": 24,
+    "quoteCount": 20
+  },
+  {
+    "id": 965,
+    "name": "Blue Seed",
+    "altName": "Blue Seed",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 1
+  },
+  {
+    "id": 379,
+    "name": "Blue Spring Ride",
+    "altName": "Ao Haru Ride",
+    "malId": 21995,
+    "episodeCount": 12,
+    "quoteCount": 21
+  },
+  {
+    "id": 556,
+    "name": "Boku wa Tomodachi ga Sukunai",
+    "altName": "Haganai: I don't have many friends",
+    "malId": 10719,
+    "episodeCount": 12,
+    "quoteCount": 7
+  },
+  {
+    "id": 384,
+    "name": "Bokurano",
+    "altName": "Bokura no",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 1
+  },
+  {
+    "id": 518,
+    "name": "Boogiepop Phantom",
+    "altName": "Boogiepop wa Warawanai",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 3
+  },
+  {
+    "id": 341,
+    "name": "Boruto: Naruto Next Generations",
+    "altName": "Boruto: Naruto Next Generations",
+    "malId": null,
+    "episodeCount": 293,
+    "quoteCount": 1
+  },
+  {
+    "id": 623,
+    "name": "Brave 10",
+    "altName": "Brave 10",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 595,
+    "name": "Broken Blade",
+    "altName": "Break Blade",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 4
+  },
+  {
+    "id": 402,
+    "name": "Brynhildr in the Darkness",
+    "altName": "Gokukoku no Brynhildr",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 13
+  },
+  {
+    "id": 941,
+    "name": "BTOOOM!",
+    "altName": "Btooom!",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 522,
+    "name": "Bungaku Shoujo",
+    "altName": null,
+    "malId": null,
+    "episodeCount": 1101,
+    "quoteCount": 8
+  },
+  {
+    "id": 202,
+    "name": "Bungo Stray Dogs",
+    "altName": "Bungou Stray Dogs",
+    "malId": 31478,
+    "episodeCount": 12,
+    "quoteCount": 7
+  },
+  {
+    "id": 196,
+    "name": "Bungo Stray Dogs 2",
+    "altName": "Bungou Stray Dogs 2nd Season",
+    "malId": 32867,
+    "episodeCount": 12,
+    "quoteCount": 8
+  },
+  {
+    "id": 939,
+    "name": "Canaan",
+    "altName": "Canaan",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 3
+  },
+  {
+    "id": 198,
+    "name": "Cardcaptor Sakura",
+    "altName": "Cardcaptor Sakura",
+    "malId": null,
+    "episodeCount": 70,
+    "quoteCount": 4
+  },
+  {
+    "id": 481,
+    "name": "Cardfight!! Vanguard",
+    "altName": "Cardfight!! Vanguard",
+    "malId": null,
+    "episodeCount": 65,
+    "quoteCount": 1
+  },
+  {
+    "id": 755,
+    "name": "Cardfight!! Vanguard G",
+    "altName": "Cardfight!! Vanguard G",
+    "malId": null,
+    "episodeCount": 48,
+    "quoteCount": 1
+  },
+  {
+    "id": 271,
+    "name": "Case Closed",
+    "altName": "Meitantei Conan",
+    "malId": 235,
+    "episodeCount": 1133,
+    "quoteCount": 70
+  },
+  {
+    "id": 864,
+    "name": "Casshern Sins",
+    "altName": "Casshern Sins",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 7
+  },
+  {
+    "id": 1018,
+    "name": "Chainsaw Man",
+    "altName": "Chainsaw Man",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 16
+  },
+  {
+    "id": 233,
+    "name": "Charlotte",
+    "altName": "Charlotte",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 4
+  },
+  {
+    "id": 468,
+    "name": "Chihayafuru",
+    "altName": "Chihayafuru",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 10
+  },
+  {
+    "id": 520,
+    "name": "Chihayafuru 2",
+    "altName": null,
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 11
+  },
+  {
+    "id": 790,
+    "name": "Chrono Crusade",
+    "altName": "Chrno Crusade",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 6
+  },
+  {
+    "id": 318,
+    "name": "Citrus",
+    "altName": "Citrus",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 390,
+    "name": "Clannad",
+    "altName": "Clannad",
+    "malId": null,
+    "episodeCount": 23,
+    "quoteCount": 39
+  },
+  {
+    "id": 706,
+    "name": "Clannad: After Story",
+    "altName": "Clannad: After Story",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 1
+  },
+  {
+    "id": 571,
+    "name": "Claymore",
+    "altName": "Claymore",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 25
+  },
+  {
+    "id": 456,
+    "name": "Code Geass: Lelouch of the Rebellion",
+    "altName": "Code Geass: Hangyaku no Lelouch",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 46
+  },
+  {
+    "id": 437,
+    "name": "Code:Breaker",
+    "altName": "Code:Breaker",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 8
+  },
+  {
+    "id": 837,
+    "name": "Coppelion",
+    "altName": "Coppelion",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 457,
+    "name": "Cowboy Bebop",
+    "altName": "Cowboy Bebop",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 29
+  },
+  {
+    "id": 759,
+    "name": "Cowboy Bebop: The Movie",
+    "altName": "Cowboy Bebop: Tengoku no Tobira",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 1
+  },
+  {
+    "id": 578,
+    "name": "D.Gray-man",
+    "altName": "D.Gray-man",
+    "malId": null,
+    "episodeCount": 103,
+    "quoteCount": 15
+  },
+  {
+    "id": 983,
+    "name": "D.N.Angel",
+    "altName": "D.N.Angel",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 11
+  },
+  {
+    "id": 794,
+    "name": "Daily Lives of High School Boys",
+    "altName": "Danshi Koukousei no Nichijou",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 0
+  },
+  {
+    "id": 955,
+    "name": "Dance in the Vampire Bund",
+    "altName": "Dance in the Vampire Bund",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 263,
+    "name": "Danganronpa 3: The End of Hope's Peak High School - Despair Arc",
+    "altName": "Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen",
+    "malId": 33028,
+    "episodeCount": 11,
+    "quoteCount": 2
+  },
+  {
+    "id": 364,
+    "name": "Danganronpa: The Animation",
+    "altName": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 905,
+    "name": "Darker than Black",
+    "altName": "Darker than Black: Kuro no Keiyakusha",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 4
+  },
+  {
+    "id": 381,
+    "name": "Darker than Black: Gemini of the Meteor",
+    "altName": "Darker than Black: Ryuusei no Gemini",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 221,
+    "name": "Darker Than Black: Gemini of the Meteor OVAs",
+    "altName": "Darker than Black - Kuro no Keiyakusha: Gaiden",
+    "malId": 7338,
+    "episodeCount": 425,
+    "quoteCount": 1
+  },
+  {
+    "id": 237,
+    "name": "Date A Live",
+    "altName": "Date A Live",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 5
+  },
+  {
+    "id": 396,
+    "name": "Deadman Wonderland",
+    "altName": "Deadman Wonderland",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 22
+  },
+  {
+    "id": 480,
+    "name": "Death Note",
+    "altName": "Death Note",
+    "malId": null,
+    "episodeCount": 37,
+    "quoteCount": 102
+  },
+  {
+    "id": 206,
+    "name": "Death Parade",
+    "altName": "Death Parade",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 16
+  },
+  {
+    "id": 823,
+    "name": "Demon King Daimao",
+    "altName": "Ichiban Ushiro no Daimaou",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 1002,
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "altName": "Kimetsu no Yaiba",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 43
+  },
+  {
+    "id": 614,
+    "name": "Devil May Cry",
+    "altName": "Devil May Cry",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 3
+  },
+  {
+    "id": 929,
+    "name": "Disgaea",
+    "altName": "Makai Senki Disgaea",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 673,
+    "name": "Doraemon",
+    "altName": "Doraemon (1979)",
+    "malId": null,
+    "episodeCount": 1787,
+    "quoteCount": 1
+  },
+  {
+    "id": 995,
+    "name": "Dr. Stone",
+    "altName": "Dr. Stone",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 9
+  },
+  {
+    "id": 912,
+    "name": "Dragon Ball",
+    "altName": "Dragon Ball",
+    "malId": null,
+    "episodeCount": 153,
+    "quoteCount": 47
+  },
+  {
+    "id": 363,
+    "name": "Dragon Ball Super",
+    "altName": "Dragon Ball Super",
+    "malId": null,
+    "episodeCount": 131,
+    "quoteCount": 1
+  },
+  {
+    "id": 525,
+    "name": "Dragon Ball Z",
+    "altName": "Dragon Ball Z",
+    "malId": null,
+    "episodeCount": 291,
+    "quoteCount": 62
+  },
+  {
+    "id": 193,
+    "name": "Durarara!!",
+    "altName": "Durarara!!",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 23
+  },
+  {
+    "id": 645,
+    "name": "Dusk Maiden of Amnesia",
+    "altName": "Tasogare Otome x Amnesia",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 877,
+    "name": "Eden of The East",
+    "altName": "Higashi no Eden",
+    "malId": null,
+    "episodeCount": 11,
+    "quoteCount": 2
+  },
+  {
+    "id": 694,
+    "name": "ef - a tale of memories.",
+    "altName": "ef: A Tale of Memories.",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 946,
+    "name": "El Cazador de la Bruja",
+    "altName": "El Cazador de la Bruja",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 1
+  },
+  {
+    "id": 491,
+    "name": "Elfen Lied",
+    "altName": "Elfen Lied",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 11
+  },
+  {
+    "id": 337,
+    "name": "Erased",
+    "altName": "Boku dake ga Inai Machi",
+    "malId": 31043,
+    "episodeCount": 12,
+    "quoteCount": 8
+  },
+  {
+    "id": 426,
+    "name": "Ergo Proxy",
+    "altName": "Ergo Proxy",
+    "malId": null,
+    "episodeCount": 23,
+    "quoteCount": 7
+  },
+  {
+    "id": 238,
+    "name": "Eureka Seven",
+    "altName": "Koukyoushihen Eureka Seven",
+    "malId": null,
+    "episodeCount": 50,
+    "quoteCount": 14
+  },
+  {
+    "id": 604,
+    "name": "Excel Saga",
+    "altName": "Heppoko Jikken Animation Excel♥Saga",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 3
+  },
+  {
+    "id": 661,
+    "name": "Eyeshield 21",
+    "altName": null,
+    "malId": null,
+    "episodeCount": 145,
+    "quoteCount": 10
+  },
+  {
+    "id": 199,
+    "name": "Fairy Tail",
+    "altName": "Fairy Tail",
+    "malId": null,
+    "episodeCount": 175,
+    "quoteCount": 160
+  },
+  {
+    "id": 421,
+    "name": "Fate/stay night",
+    "altName": "Fate/stay night",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 53
+  },
+  {
+    "id": 540,
+    "name": "Fate/stay night [Unlimited Blade Works]",
+    "altName": "Fate/stay night: Unlimited Blade Works",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 306,
+    "name": "Fate/Zero",
+    "altName": "Fate/Zero",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 77
+  },
+  {
+    "id": 1008,
+    "name": "Fire Force",
+    "altName": "Enen no Shouboutai",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 22
+  },
+  {
+    "id": 383,
+    "name": "Fist of the North Star",
+    "altName": "Hokuto no Ken",
+    "malId": null,
+    "episodeCount": 109,
+    "quoteCount": 1
+  },
+  {
+    "id": 871,
+    "name": "FLCL",
+    "altName": "FLCL",
+    "malId": null,
+    "episodeCount": 6,
+    "quoteCount": 12
+  },
+  {
+    "id": 397,
+    "name": "Fractale",
+    "altName": "Fractale",
+    "malId": null,
+    "episodeCount": 11,
+    "quoteCount": 1
+  },
+  {
+    "id": 693,
+    "name": "Free! - Eternal Summer",
+    "altName": "Free! Eternal Summer",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 2
+  },
+  {
+    "id": 565,
+    "name": "Fruits Basket",
+    "altName": "Fruits Basket",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 178
+  },
+  {
+    "id": 980,
+    "name": "Full Metal Panic!",
+    "altName": "Full Metal Panic!",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 4
+  },
+  {
+    "id": 538,
+    "name": "Fullmetal Alchemist",
+    "altName": "Fullmetal Alchemist",
+    "malId": null,
+    "episodeCount": 51,
+    "quoteCount": 136
+  },
+  {
+    "id": 297,
+    "name": "Fullmetal Alchemist: Brotherhood",
+    "altName": "Fullmetal Alchemist: Brotherhood",
+    "malId": null,
+    "episodeCount": 64,
+    "quoteCount": 30
+  },
+  {
+    "id": 545,
+    "name": "Gakuen Alice",
+    "altName": "Gakuen Alice",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 9
+  },
+  {
+    "id": 807,
+    "name": "Gankutsuou: The Count of Monte Cristo",
+    "altName": "Gankutsuou",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 1
+  },
+  {
+    "id": 226,
+    "name": "Gantz",
+    "altName": "Gantz",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 9
+  },
+  {
+    "id": 851,
+    "name": "Gatchaman Crowds",
+    "altName": "Gatchaman Crowds",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 393,
+    "name": "GATE",
+    "altName": "Gate: Jieitai Kanochi nite Kaku Tatakaeri",
+    "malId": 28907,
+    "episodeCount": 12,
+    "quoteCount": 20
+  },
+  {
+    "id": 907,
+    "name": "Getbackers",
+    "altName": "GetBackers",
+    "malId": null,
+    "episodeCount": 49,
+    "quoteCount": 2
+  },
+  {
+    "id": 313,
+    "name": "Ghost Hound",
+    "altName": "Shinreigari",
+    "malId": null,
+    "episodeCount": 22,
+    "quoteCount": 1
+  },
+  {
+    "id": 418,
+    "name": "Ghost Hunt",
+    "altName": "Ghost Hunt",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 7
+  },
+  {
+    "id": 708,
+    "name": "Ghost in the Shell",
+    "altName": "Koukaku Kidoutai",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 15
+  },
+  {
+    "id": 754,
+    "name": "Ghost in the Shell 2: Innocence",
+    "altName": "Innocence",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 3
+  },
+  {
+    "id": 675,
+    "name": "Ghost in the Shell: Stand Alone Complex",
+    "altName": "Koukaku Kidoutai: Stand Alone Complex",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 1
+  },
+  {
+    "id": 590,
+    "name": "Giant Killing",
+    "altName": "Giant Killing",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 2
+  },
+  {
+    "id": 349,
+    "name": "Gintama",
+    "altName": "Gintama",
+    "malId": null,
+    "episodeCount": 201,
+    "quoteCount": 56
+  },
+  {
+    "id": 647,
+    "name": "Golden Time",
+    "altName": "Golden Time (Movie)",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 15
+  },
+  {
+    "id": 242,
+    "name": "Golgo 13",
+    "altName": "Golgo 13 (TV)",
+    "malId": null,
+    "episodeCount": 50,
+    "quoteCount": 1
+  },
+  {
+    "id": 436,
+    "name": "Gosick",
+    "altName": null,
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 7
+  },
+  {
+    "id": 937,
+    "name": "Great Teacher Onizuka",
+    "altName": "Great Teacher Onizuka",
+    "malId": null,
+    "episodeCount": 43,
+    "quoteCount": 8
+  },
+  {
+    "id": 897,
+    "name": "Ground Control to Psychoelectric Girl",
+    "altName": "Denpa Onna to Seishun Otoko",
+    "malId": 9379,
+    "episodeCount": 12,
+    "quoteCount": 9
+  },
+  {
+    "id": 739,
+    "name": "GUGURE! KOKKURI-SAN",
+    "altName": "Gugure! Kokkuri-san",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 342,
+    "name": "Guilty Crown",
+    "altName": "Guilty Crown",
+    "malId": null,
+    "episodeCount": 22,
+    "quoteCount": 22
+  },
+  {
+    "id": 278,
+    "name": "Gunbuster",
+    "altName": "Top wo Nerae! Gunbuster",
+    "malId": null,
+    "episodeCount": 6,
+    "quoteCount": 1
+  },
+  {
+    "id": 976,
+    "name": "Gunslinger Girl",
+    "altName": "Gunslinger Girl",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 509,
+    "name": "Gunslinger Stratos: The Animation",
+    "altName": "Gunslinger Stratos The Animation",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 6
+  },
+  {
+    "id": 822,
+    "name": "Gurren Lagann",
+    "altName": "Tengen Toppa Gurren Lagann",
+    "malId": 2001,
+    "episodeCount": 27,
+    "quoteCount": 10
+  },
+  {
+    "id": 230,
+    "name": "Haganai: I don't have many friends NEXT",
+    "altName": "Boku wa Tomodachi ga Sukunai NEXT",
+    "malId": 14967,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 334,
+    "name": "Haibane Renmei",
+    "altName": "Haibane Renmei",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 5
+  },
+  {
+    "id": 333,
+    "name": "Haikyu!!",
+    "altName": "Haikyuu!!",
+    "malId": 20583,
+    "episodeCount": 25,
+    "quoteCount": 24
+  },
+  {
+    "id": 267,
+    "name": "Haikyu!! 2nd Season",
+    "altName": "Haikyuu!! Second Season",
+    "malId": 28891,
+    "episodeCount": 25,
+    "quoteCount": 7
+  },
+  {
+    "id": 405,
+    "name": "Hajime no Ippo",
+    "altName": "Fighting Spirit",
+    "malId": 263,
+    "episodeCount": 75,
+    "quoteCount": 8
+  },
+  {
+    "id": 938,
+    "name": "Hana Yori Dango",
+    "altName": "Hana yori Dango",
+    "malId": null,
+    "episodeCount": 51,
+    "quoteCount": 1
+  },
+  {
+    "id": 272,
+    "name": "Hanamonogatari",
+    "altName": "Hanamonogatari",
+    "malId": null,
+    "episodeCount": 5,
+    "quoteCount": 2
+  },
+  {
+    "id": 772,
+    "name": "Hanasaku Iroha: Blossoms for Tomorrow",
+    "altName": "Hanasaku Iroha",
+    "malId": 9289,
+    "episodeCount": 26,
+    "quoteCount": 6
+  },
+  {
+    "id": 746,
+    "name": "Hanayamata",
+    "altName": "Hanayamata",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 2
+  },
+  {
+    "id": 781,
+    "name": "Hatsukoi Limited",
+    "altName": "Hatsukoi Limited.",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 240,
+    "name": "Haven't You Heard? I'm Sakamoto",
+    "altName": "Sakamoto desu ga?",
+    "malId": 32542,
+    "episodeCount": 12,
+    "quoteCount": 14
+  },
+  {
+    "id": 797,
+    "name": "Hayate the Combat Butler!!",
+    "altName": "Hayate no Gotoku!!",
+    "malId": null,
+    "episodeCount": 25,
+    "quoteCount": 1
+  },
+  {
+    "id": 916,
+    "name": "Hell Girl",
+    "altName": "Jigoku Shoujo",
+    "malId": 228,
+    "episodeCount": 26,
+    "quoteCount": 10
+  },
+  {
+    "id": 580,
+    "name": "Hellsing",
+    "altName": "Hellsing",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 36
+  },
+  {
+    "id": 681,
+    "name": "Hellsing Ultimate",
+    "altName": "Hellsing Ultimate",
+    "malId": null,
+    "episodeCount": 10,
+    "quoteCount": 10
+  },
+  {
+    "id": 211,
+    "name": "Hetalia: The Beautiful World",
+    "altName": "Hetalia: The Beautiful World",
+    "malId": null,
+    "episodeCount": 20,
+    "quoteCount": 1
+  },
+  {
+    "id": 634,
+    "name": "High School DxD BorN",
+    "altName": "High School DxD BorN",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 679,
+    "name": "Highschool Of The Dead",
+    "altName": null,
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 10
+  },
+  {
+    "id": 294,
+    "name": "Higurashi: When They Cry",
+    "altName": "Higurashi No Naku Koro Ni",
+    "malId": 934,
+    "episodeCount": 26,
+    "quoteCount": 12
+  },
+  {
+    "id": 543,
+    "name": "Himouto! Umaru-chan",
+    "altName": "Himouto! Umaru-chan",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 942,
+    "name": "His and Her Circumstances",
+    "altName": "Kareshi Kanojo no Jijou",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 1
+  },
+  {
+    "id": 892,
+    "name": "Honey and Clover",
+    "altName": "Hachimitsu to Clover",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 22
+  },
+  {
+    "id": 1033,
+    "name": "Horimiya",
+    "altName": "Horimiya",
+    "malId": 42897,
+    "episodeCount": 13,
+    "quoteCount": 20
+  },
+  {
+    "id": 970,
+    "name": "Horizon in the Middle of Nowhere",
+    "altName": "Kyoukai Senjou No Horizon",
+    "malId": 10456,
+    "episodeCount": 13,
+    "quoteCount": 6
+  },
+  {
+    "id": 950,
+    "name": "Howl's Moving Castle",
+    "altName": "Howl no Ugoku Shiro",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 6
+  },
+  {
+    "id": 899,
+    "name": "Humanity Has Declined",
+    "altName": "Jinrui wa Suitai Shimashita",
+    "malId": 10357,
+    "episodeCount": 12,
+    "quoteCount": 25
+  },
+  {
+    "id": 346,
+    "name": "Hunter x Hunter",
+    "altName": "Hunter x Hunter (2011)",
+    "malId": null,
+    "episodeCount": 148,
+    "quoteCount": 69
+  },
+  {
+    "id": 296,
+    "name": "Hunter x Hunter (2011)",
+    "altName": "Hunter × Hunter",
+    "malId": 11061,
+    "episodeCount": 148,
+    "quoteCount": 1
+  },
+  {
+    "id": 366,
+    "name": "Hyouka",
+    "altName": "Hyouka",
+    "malId": null,
+    "episodeCount": 22,
+    "quoteCount": 26
+  },
+  {
+    "id": 776,
+    "name": "Inari Kon Kon",
+    "altName": "Inari, Konkon, Koi Iroha.",
+    "malId": null,
+    "episodeCount": 10,
+    "quoteCount": 1
+  },
+  {
+    "id": 619,
+    "name": "Infinite Ryvius",
+    "altName": "Mugen no Ryvius",
+    "malId": null,
+    "episodeCount": 26,
+    "quoteCount": 2
+  },
+  {
+    "id": 231,
+    "name": "Into the Forest of Fireflies' Light",
+    "altName": "Hotarubi no Mori e",
+    "malId": 10408,
+    "episodeCount": 145,
+    "quoteCount": 3
+  },
+  {
+    "id": 218,
+    "name": "InuYasha",
+    "altName": "InuYasha",
+    "malId": null,
+    "episodeCount": 167,
+    "quoteCount": 79
+  },
+  {
+    "id": 685,
+    "name": "Is This a Zombie?",
+    "altName": "Kore Wa Zombie Desu Ka?",
+    "malId": 8841,
+    "episodeCount": 12,
+    "quoteCount": 3
+  },
+  {
+    "id": 542,
+    "name": "Jing: King of Bandits",
+    "altName": "Ou Dorobou Jing",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 734,
+    "name": "JoJo's Bizarre Adventure",
+    "altName": "JoJo no Kimyou na Bouken",
+    "malId": null,
+    "episodeCount": 6,
+    "quoteCount": 2
+  },
+  {
+    "id": 312,
+    "name": "JoJo's Bizarre Adventure: Phantom Blood",
+    "altName": "JoJo no Kimyou na Bouken: Phantom Blood",
+    "malId": null,
+    "episodeCount": 1,
+    "quoteCount": 2
+  },
+  {
+    "id": 276,
+    "name": "JoJo's Bizarre Adventure: Stardust Crusaders",
+    "altName": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 3
+  },
+  {
+    "id": 187,
+    "name": "Joker Game",
+    "altName": "Joker Game",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 1
+  },
+  {
+    "id": 829,
+    "name": "Jormungand",
+    "altName": "Jormungand",
+    "malId": null,
+    "episodeCount": 12,
+    "quoteCount": 18
+  },
+  {
+    "id": 699,
+    "name": "Jubei-chan 2: The Counterattack of Siberia Yagyu",
+    "altName": "Juubee-chan 2: Siberia Yagyuu no Gyakushuu",
+    "malId": null,
+    "episodeCount": 13,
+    "quoteCount": 1
+  },
+  {
+    "id": 988,
+    "name": "Jujutsu Kaisen",
+    "altName": "Jujutsu Kaisen",
+    "malId": null,
+    "episodeCount": 24,
+    "quoteCount": 35
+  },
+  {
+    "id": 656,
+    "name": "Junjo Romantica",
+    "altName": "Junjou Romantica",
+    "malId": 3092,
+    "episodeCount": 12,
+    "quoteCount": 20
+  }
+]
