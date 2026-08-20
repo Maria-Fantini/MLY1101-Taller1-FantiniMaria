@@ -9,7 +9,7 @@ de tres APIs.
 ## APIs utilizadas
 
 ### API 1
-
+- Endpoint: https://api.animechan.io/v1/anime
 - Registros obtenidos: 200
 
 ### API 2 - PoetryDB
@@ -18,7 +18,7 @@ de tres APIs.
 - Registros obtenidos: 200
 
 ### API 3
-
+- Endpoint: https://ghibliapi.vercel.app/films
 - Registros obtenidos: 22
 - Observación: La API no permitió obtener 200 registros, por lo que se
   documenta la excepción y se conservan los 22 registros disponibles.
